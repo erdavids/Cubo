@@ -10,5 +10,5 @@ Other links:
 
 All of these projects are available with the intention that other people will enjoy and learn from them. 
 
-<p align="center"><img src="https://github.com/erdavids/Cubo/blob/master/Favorites/Cubo-80-40-1442.png"></p>
+<p align="center"><img src="https://github.com/erdavids/Cubo/blob/master/Examples/Cubo-80-40-1442.png"></p>
 
